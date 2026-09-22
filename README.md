@@ -1,0 +1,1 @@
+# file-host-uploads\n\nFiles uploaded through the Cloudflare file host land in `uploads/`.\n
